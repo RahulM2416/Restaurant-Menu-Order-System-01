@@ -30,6 +30,13 @@ The available menu items are:
 
 ---
 
+## 📸 Screenshots
+### Screenshot 01 
+![Screenshot01]()
+
+### Screenshot 02 
+![Screenshot01]()
+
 ## 🛠 Technologies Used
 - Python 3
 
