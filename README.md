@@ -22,6 +22,20 @@ The available menu items are:
 
 ---
 
+##📦 Features
+- Hardcoded menu using Python dictionary
+- Accepts multiple items
+- Displays total order cost
+- Easy to understand and extend
+
+---
+
+##🛠 Technologies Used
+- Python 3
+
+##📜 LICENCE 
+This project is licensed under MIT License.
+
 ## ▶️ How to Run
 
 Make sure Python 3 is installed on your system.
