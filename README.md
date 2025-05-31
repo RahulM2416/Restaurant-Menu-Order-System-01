@@ -36,7 +36,7 @@ The available menu items are:
 ---
 
 ## 📜 LICENCE 
-This project is licensed under MIT License.
+ - This project is licensed under MIT License.
 ---
 
 ## ▶️ How to Run
