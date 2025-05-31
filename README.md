@@ -30,13 +30,6 @@ The available menu items are:
 
 ---
 
-## 📸 Screenshots
-### Screenshot 01 
-![Screenshot01](https://github.com/RahulM2416/Restaurant-Menu-Order-System-01/blob/main/hotelmenu01.png)
-
-### Screenshot 02 
-![Screenshot01](https://github.com/RahulM2416/Restaurant-Menu-Order-System-01/blob/main/hotelmenu02.jpg)
-
 ## 🛠 Technologies Used
 - Python 3
 
@@ -57,3 +50,12 @@ python hotelmenu.py
 ```
 
 ---
+
+
+## 📸 Screenshots
+### Screenshot 01 
+![Screenshot01](https://github.com/RahulM2416/Restaurant-Menu-Order-System-01/blob/main/hotelmenu01.png)
+
+### Screenshot 02 
+![Screenshot01](https://github.com/RahulM2416/Restaurant-Menu-Order-System-01/blob/main/hotelmenu02.jpg)
+
