@@ -22,7 +22,7 @@ The available menu items are:
 
 ---
 
-##📦 Features
+## 📦 Features
 - Hardcoded menu using Python dictionary
 - Accepts multiple items
 - Displays total order cost
@@ -30,11 +30,14 @@ The available menu items are:
 
 ---
 
-##🛠 Technologies Used
+## 🛠 Technologies Used
 - Python 3
 
-##📜 LICENCE 
+---
+
+## 📜 LICENCE 
 This project is licensed under MIT License.
+---
 
 ## ▶️ How to Run
 
@@ -43,3 +46,7 @@ Make sure Python 3 is installed on your system.
 ```bash
 # Run the Python script
 python hotelmenu.py
+
+```
+
+---
