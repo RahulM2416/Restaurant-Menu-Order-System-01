@@ -25,7 +25,7 @@ while True:
         print(f"Your item {item} has been added to you order.")
         print(" ")
      else:
-        print("Sorry , we dont have {item} in our menu.. ")
+        print(f"Sorry , we dont have {item} in our menu.. ")
      another_order = input("Do you want to add another item ? (yes/no) :")
      print(" ")
      if another_order.lower()!='yes':
